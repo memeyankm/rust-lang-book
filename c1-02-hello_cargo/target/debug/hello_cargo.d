@@ -1,0 +1,1 @@
+/home/memeyankm/projects/hello_cargo/target/debug/hello_cargo: /home/memeyankm/projects/hello_cargo/src/main.rs
